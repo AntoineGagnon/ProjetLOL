@@ -1,0 +1,811 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1653" measuredH="2258" mockupW="1573" mockupH="2240">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="80" y="18" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="80" y="47" w="450" h="371" measuredW="375" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::VRule" x="258" y="96" w="-1" h="307" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SearchBox" x="397" y="88" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="502" y="148" w="-1" h="255" measuredW="16" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::List" x="280" y="148" w="229" h="255" measuredW="100" measuredH="126" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UserControl%20Champion1%0AUserControl%20Champion2%0AUserControl%20Champion3%0AUserControl%20Champion4%0AUserControl%20Champion5</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="280" y="86" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filters</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="280" y="127" w="92" h="27" measuredW="68" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20v</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="372" y="127" w="84" h="27" measuredW="70" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rating%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TitleWindow" x="637" y="18" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::TabBar" x="637" y="47" w="450" h="371" measuredW="375" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>square</borderStyle>
+        <selectedIndex>0</selectedIndex>
+        <tabHPosition>center</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::VRule" x="815" y="96" w="-1" h="307" measuredW="10" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::SearchBox" x="97" y="700" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="837" y="90" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filters</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="837" y="208" w="92" h="24" measuredW="68" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20v</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="929" y="208" w="84" h="24" measuredW="70" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rating%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::List" x="837" y="228" w="229" h="175" measuredW="100" measuredH="126" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UserControl%20Champion1%0AUserControl%20Champion2%0AUserControl%20Champion3%0AUserControl%20Champion4%0AUserControl%20Champion5</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="854" y="127" w="75" h="78" measuredW="75" measuredH="61" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%0A%5B%20%5D%20Faction%201%0A%5B%20%5D%20Faction%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="103" y="739" w="84" h="61" measuredW="59" measuredH="61" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Canvas" x="837" y="111" w="237" h="92" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Arrow" x="339" y="102" w="501" h="36" measuredW="150" measuredH="100" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <curvature>1</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <stroke>solid</stroke>
+        <text>Clic%20Gauche</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Icon" x="102" y="476" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="178" y="486" w="-1" h="-1" measuredW="90" measuredH="28" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="509" y="484" w="-1" h="-1" measuredW="120" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%u2605%u2605%u2605%u2605%u2605</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TitleWindow" x="80" y="600" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TabBar" x="80" y="629" w="450" h="371" measuredW="375" measuredH="100" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1058" y="228" w="-1" h="174" measuredW="16" measuredH="100" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="967" y="127" w="-1" h="-1" measuredW="59" measuredH="61" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Arrow" x="167" y="514" w="35" h="86" measuredW="150" measuredH="100" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text>Clic%20gauche</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Arrow" x="627" y="395" w="79" h="77" measuredW="150" measuredH="100" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text>Hover</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Title" x="243" y="678" w="-1" h="-1" measuredW="106" measuredH="43" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SearchBox" x="97" y="1241" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="103" y="1280" w="84" h="61" measuredW="59" measuredH="61" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::TitleWindow" x="80" y="1141" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TabBar" x="80" y="1170" w="450" h="371" measuredW="290" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Aatrox%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Title" x="243" y="1212" w="-1" h="-1" measuredW="116" measuredH="43" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aatrox</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="386" y="1423" w="-1" h="-1" measuredW="120" measuredH="32" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%u2605%u2605%u2605%u2605%u2605</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::SubTitle" x="386" y="686" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dignity</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Image" x="101" y="1212" w="-1" h="-1" measuredW="120" measuredH="120" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/champion/Aatrox.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Image" x="456" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxR.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="366" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxE.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Image" x="280" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxW.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Image" x="195" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxQ.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Image" x="110" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/passive/Aatrox_Passive.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Label" x="243" y="1286" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%20%3A%20Independant</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Label" x="243" y="1307" w="-1" h="-1" measuredW="121" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%20%3A%20Fighter%20/%20Tank</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::SubTitle" x="243" y="1253" w="-1" h="-1" measuredW="187" measuredH="27" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Darkin%20Blade</text>
+      </controlProperties>
+    </control>
+    <control controlID="134" controlTypeID="com.balsamiq.mockups::Image" x="456" y="822" w="48" h="48" measuredW="77" measuredH="79" zOrder="47" locked="false" isInGroup="-1"/>
+    <control controlID="135" controlTypeID="com.balsamiq.mockups::Image" x="366" y="821" w="48" h="48" measuredW="77" measuredH="79" zOrder="48" locked="false" isInGroup="-1"/>
+    <control controlID="136" controlTypeID="com.balsamiq.mockups::Image" x="280" y="821" w="48" h="48" measuredW="77" measuredH="79" zOrder="49" locked="false" isInGroup="-1"/>
+    <control controlID="137" controlTypeID="com.balsamiq.mockups::Image" x="195" y="821" w="48" h="48" measuredW="77" measuredH="79" zOrder="50" locked="false" isInGroup="-1"/>
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Image" x="110" y="821" w="48" h="48" measuredW="77" measuredH="79" zOrder="51" locked="false" isInGroup="-1"/>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::SearchBox" x="662" y="700" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::TitleWindow" x="637" y="600" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::TabBar" x="637" y="629" w="450" h="371" measuredW="375" measuredH="100" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Image" x="1012" y="822" w="48" h="48" measuredW="77" measuredH="79" zOrder="55" locked="false" isInGroup="-1"/>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Image" x="923" y="822" w="48" h="48" measuredW="77" measuredH="79" zOrder="56" locked="false" isInGroup="-1"/>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Image" x="837" y="822" w="48" h="48" measuredW="77" measuredH="79" zOrder="57" locked="false" isInGroup="-1"/>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Image" x="752" y="822" w="48" h="48" measuredW="77" measuredH="79" zOrder="58" locked="false" isInGroup="-1"/>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::Image" x="667" y="822" w="48" h="48" measuredW="77" measuredH="79" zOrder="59" locked="false" isInGroup="-1"/>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Canvas" x="653" y="878" w="425" h="112" measuredW="100" measuredH="70" zOrder="60" locked="false" isInGroup="-1"/>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::SubTitle" x="667" y="893" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Spell</text>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Arrow" x="502" y="853" w="151" h="25" measuredW="150" measuredH="100" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text>Hover</text>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::SearchBox" x="654" y="1241" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="660" y="1280" w="84" h="61" measuredW="59" measuredH="61" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::TitleWindow" x="637" y="1141" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::TabBar" x="637" y="1170" w="450" h="371" measuredW="290" measuredH="100" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Aatrox%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Title" x="800" y="1212" w="-1" h="-1" measuredW="116" measuredH="43" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Aatrox</text>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Image" x="658" y="1212" w="-1" h="-1" measuredW="120" measuredH="120" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/champion/Aatrox.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Image" x="1012" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxR.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="168" controlTypeID="com.balsamiq.mockups::Image" x="923" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxE.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Image" x="837" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxW.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Image" x="752" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/spell/AatroxQ.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Image" x="667" y="1362" w="48" h="48" measuredW="64" measuredH="64" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>http%3A//ddragon.leagueoflegends.com/cdn/4.7.16/img/passive/Aatrox_Passive.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::Label" x="800" y="1286" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%20%3A%20Independant</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Label" x="800" y="1307" w="-1" h="-1" measuredW="121" measuredH="21" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%20%3A%20Fighter%20/%20Tank</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::SubTitle" x="800" y="1253" w="-1" h="-1" measuredW="187" measuredH="27" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Darkin%20Blade</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Canvas" x="653" y="1417" w="425" h="116" measuredW="100" measuredH="70" zOrder="77" locked="false" isInGroup="-1"/>
+    <control controlID="176" controlTypeID="com.balsamiq.mockups::SubTitle" x="675" y="1423" w="-1" h="-1" measuredW="128" measuredH="17" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Blood%20Well%20%28Passive%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::TextArea" x="667" y="920" w="376" h="52" measuredW="200" measuredH="140" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="179" controlTypeID="com.balsamiq.mockups::TextArea" x="659" y="1438" w="413" h="88" measuredW="200" measuredH="140" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>When%20using%20an%20ability%20that%20costs%20Health%2C%20Aatrox%20stores%20the%20self-inflicted%20damage%20into%20the%20Blood%20Well.%20Upon%20taking%20fatal%20damage%20Aatrox%20extracts%20the%20blood%20from%20the%20well%20and%20recovers%20it%20as%20health%20over%20a%20brief%20duration.%20Additionally%2C%20Aatrox%20gains%201%25%20Attack%20Speed%20for%20every%202%25%20blood%20that%20is%20in%20the%20well.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="180" controlTypeID="com.balsamiq.mockups::Canvas" x="93" y="1417" w="425" h="116" measuredW="100" measuredH="70" zOrder="81" locked="false" isInGroup="-1"/>
+    <control controlID="181" controlTypeID="com.balsamiq.mockups::Label" x="103" y="1429" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Opinion</text>
+      </controlProperties>
+    </control>
+    <control controlID="203" controlTypeID="com.balsamiq.mockups::TitleWindow" x="80" y="1858" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="204" controlTypeID="com.balsamiq.mockups::TabBar" x="80" y="1887" w="450" h="371" measuredW="375" measuredH="100" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="205" controlTypeID="com.balsamiq.mockups::VRule" x="258" y="1936" w="-1" h="307" measuredW="10" measuredH="100" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="211" controlTypeID="com.balsamiq.mockups::Button" x="280" y="1930" w="-1" h="-1" measuredW="59" measuredH="27" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Filters</text>
+      </controlProperties>
+    </control>
+    <control controlID="212" controlTypeID="com.balsamiq.mockups::Button" x="280" y="2048" w="92" h="24" measuredW="68" measuredH="27" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name%20v</text>
+      </controlProperties>
+    </control>
+    <control controlID="213" controlTypeID="com.balsamiq.mockups::Button" x="372" y="2048" w="84" h="24" measuredW="70" measuredH="27" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rating%20-</text>
+      </controlProperties>
+    </control>
+    <control controlID="214" controlTypeID="com.balsamiq.mockups::List" x="280" y="2068" w="229" h="175" measuredW="100" measuredH="126" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UserControl%20Champion1%0AUserControl%20Champion2%0AUserControl%20Champion3%0AUserControl%20Champion4%0AUserControl%20Champion5</text>
+      </controlProperties>
+    </control>
+    <control controlID="215" controlTypeID="com.balsamiq.mockups::Canvas" x="280" y="1951" w="237" h="92" measuredW="100" measuredH="70" zOrder="91" locked="false" isInGroup="-1"/>
+    <control controlID="216" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="297" y="1967" w="75" h="78" measuredW="75" measuredH="61" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%0A%5B%20%5D%20Faction%201%0A%5B%20%5D%20Faction%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="217" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="507" y="2069" w="-1" h="174" measuredW="16" measuredH="100" zOrder="93" locked="false" isInGroup="-1"/>
+    <control controlID="218" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="410" y="1967" w="-1" h="-1" measuredW="59" measuredH="61" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="219" controlTypeID="com.balsamiq.mockups::Canvas" x="93" y="876" w="425" h="116" measuredW="100" measuredH="70" zOrder="95" locked="false" isInGroup="-1"/>
+    <control controlID="220" controlTypeID="com.balsamiq.mockups::Label" x="386" y="882" w="-1" h="-1" measuredW="120" measuredH="32" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%u2605%u2605%u2605%u2605%u2605</text>
+      </controlProperties>
+    </control>
+    <control controlID="221" controlTypeID="com.balsamiq.mockups::Label" x="103" y="888" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Opinion</text>
+      </controlProperties>
+    </control>
+    <control controlID="222" controlTypeID="com.balsamiq.mockups::SearchBox" x="654" y="1958" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="223" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="660" y="1997" w="84" h="61" measuredW="59" measuredH="61" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="224" controlTypeID="com.balsamiq.mockups::TitleWindow" x="637" y="1858" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="225" controlTypeID="com.balsamiq.mockups::TabBar" x="637" y="1887" w="450" h="371" measuredW="375" measuredH="100" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="232" controlTypeID="com.balsamiq.mockups::Image" x="1013" y="2080" w="48" h="48" measuredW="77" measuredH="79" zOrder="102" locked="false" isInGroup="-1"/>
+    <control controlID="233" controlTypeID="com.balsamiq.mockups::Image" x="923" y="2079" w="48" h="48" measuredW="77" measuredH="79" zOrder="103" locked="false" isInGroup="-1"/>
+    <control controlID="234" controlTypeID="com.balsamiq.mockups::Image" x="837" y="2079" w="48" h="48" measuredW="77" measuredH="79" zOrder="104" locked="false" isInGroup="-1"/>
+    <control controlID="235" controlTypeID="com.balsamiq.mockups::Image" x="752" y="2079" w="48" h="48" measuredW="77" measuredH="79" zOrder="105" locked="false" isInGroup="-1"/>
+    <control controlID="236" controlTypeID="com.balsamiq.mockups::Image" x="667" y="2079" w="48" h="48" measuredW="77" measuredH="79" zOrder="106" locked="false" isInGroup="-1"/>
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::Canvas" x="650" y="2134" w="425" h="116" measuredW="100" measuredH="70" zOrder="107" locked="false" isInGroup="-1"/>
+    <control controlID="238" controlTypeID="com.balsamiq.mockups::Label" x="943" y="2140" w="-1" h="-1" measuredW="120" measuredH="32" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%u2605%u2605%u2605%u2605%u2605</text>
+      </controlProperties>
+    </control>
+    <control controlID="239" controlTypeID="com.balsamiq.mockups::Label" x="660" y="2146" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Opinion</text>
+      </controlProperties>
+    </control>
+    <control controlID="240" controlTypeID="com.balsamiq.mockups::SearchBox" x="1220" y="1958" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="241" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="1226" y="1997" w="84" h="61" measuredW="59" measuredH="61" zOrder="111" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role%0A%5B%20%5D%20Role%201%0A%5B%20%5D%20Role%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="242" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1203" y="1858" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="112" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>0</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Champions%20Catalog</text>
+      </controlProperties>
+    </control>
+    <control controlID="243" controlTypeID="com.balsamiq.mockups::TabBar" x="1203" y="1887" w="450" h="371" measuredW="375" measuredH="100" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabHPosition>left</tabHPosition>
+        <tabVPosition>top</tabVPosition>
+        <text>Catalog%2C%20Champion%20selected%201%2C%20Champion%20select%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="250" controlTypeID="com.balsamiq.mockups::Image" x="1578" y="2080" w="48" h="48" measuredW="77" measuredH="79" zOrder="114" locked="false" isInGroup="-1"/>
+    <control controlID="251" controlTypeID="com.balsamiq.mockups::Image" x="1489" y="2080" w="48" h="48" measuredW="77" measuredH="79" zOrder="115" locked="false" isInGroup="-1"/>
+    <control controlID="252" controlTypeID="com.balsamiq.mockups::Image" x="1403" y="2080" w="48" h="48" measuredW="77" measuredH="79" zOrder="116" locked="false" isInGroup="-1"/>
+    <control controlID="253" controlTypeID="com.balsamiq.mockups::Image" x="1318" y="2080" w="48" h="48" measuredW="77" measuredH="79" zOrder="117" locked="false" isInGroup="-1"/>
+    <control controlID="254" controlTypeID="com.balsamiq.mockups::Image" x="1233" y="2080" w="48" h="48" measuredW="77" measuredH="79" zOrder="118" locked="false" isInGroup="-1"/>
+    <control controlID="255" controlTypeID="com.balsamiq.mockups::Canvas" x="1219" y="2136" w="425" h="112" measuredW="100" measuredH="70" zOrder="119" locked="false" isInGroup="-1"/>
+    <control controlID="256" controlTypeID="com.balsamiq.mockups::SubTitle" x="1233" y="2151" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="120" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Spell</text>
+      </controlProperties>
+    </control>
+    <control controlID="257" controlTypeID="com.balsamiq.mockups::TextArea" x="1233" y="2178" w="376" h="52" measuredW="200" measuredH="140" zOrder="121" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <text>Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="258" controlTypeID="com.balsamiq.mockups::Image" x="659" y="671" w="120" h="120" measuredW="77" measuredH="79" zOrder="122" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="259" controlTypeID="com.balsamiq.mockups::Image" x="103" y="671" w="120" h="120" measuredW="77" measuredH="79" zOrder="123" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="260" controlTypeID="com.balsamiq.mockups::Image" x="659" y="1937" w="120" h="120" measuredW="77" measuredH="79" zOrder="124" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="261" controlTypeID="com.balsamiq.mockups::Image" x="1226" y="1937" w="120" h="120" measuredW="77" measuredH="79" zOrder="125" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="265" controlTypeID="com.balsamiq.mockups::List" x="297" y="473" w="76" h="55" measuredW="100" measuredH="126" zOrder="126" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction1%0AFaction2</text>
+      </controlProperties>
+    </control>
+    <control controlID="266" controlTypeID="com.balsamiq.mockups::List" x="409" y="473" w="76" h="55" measuredW="100" measuredH="126" zOrder="127" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role1%0ARole2</text>
+      </controlProperties>
+    </control>
+    <control controlID="269" controlTypeID="com.balsamiq.mockups::Image" x="666" y="156" w="120" h="120" measuredW="77" measuredH="79" zOrder="128" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="270" controlTypeID="com.balsamiq.mockups::Label" x="706" y="119" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="129" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dignity</text>
+      </controlProperties>
+    </control>
+    <control controlID="271" controlTypeID="com.balsamiq.mockups::SubTitle" x="678" y="88" w="-1" h="-1" measuredW="108" measuredH="27" zOrder="130" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="272" controlTypeID="com.balsamiq.mockups::TextArea" x="659" y="293" w="133" h="110" measuredW="200" measuredH="140" zOrder="131" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Faction%28s%29%20%3A%0AFaction1%0AFaction2%0A%20%0ARole%28s%29%20%3A%0ARole1%0ARole2</text>
+      </controlProperties>
+    </control>
+    <control controlID="286" controlTypeID="com.balsamiq.mockups::Canvas" x="80" y="465" w="573" h="70" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="287" controlTypeID="com.balsamiq.mockups::Canvas" x="854" y="1664" w="573" h="70" measuredW="100" measuredH="70" zOrder="132" locked="false" isInGroup="-1"/>
+    <control controlID="288" controlTypeID="com.balsamiq.mockups::Icon" x="876" y="1675" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="133" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="289" controlTypeID="com.balsamiq.mockups::Label" x="952" y="1685" w="-1" h="-1" measuredW="90" measuredH="28" zOrder="134" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="290" controlTypeID="com.balsamiq.mockups::Label" x="1283" y="1683" w="-1" h="-1" measuredW="120" measuredH="32" zOrder="135" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>%u2605%u2605%u2605%u2605%u2605</text>
+      </controlProperties>
+    </control>
+    <control controlID="291" controlTypeID="com.balsamiq.mockups::List" x="1071" y="1672" w="76" h="55" measuredW="100" measuredH="126" zOrder="136" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction1%0AFaction2</text>
+      </controlProperties>
+    </control>
+    <control controlID="292" controlTypeID="com.balsamiq.mockups::List" x="1183" y="1672" w="76" h="55" measuredW="100" measuredH="126" zOrder="137" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role1%0ARole2</text>
+      </controlProperties>
+    </control>
+    <control controlID="293" controlTypeID="com.balsamiq.mockups::SearchBox" x="954" y="88" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="138" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="294" controlTypeID="com.balsamiq.mockups::SearchBox" x="397" y="1928" w="-1" h="-1" measuredW="120" measuredH="23" zOrder="139" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Find%20Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="295" controlTypeID="com.balsamiq.mockups::Image" x="110" y="156" w="120" h="120" measuredW="77" measuredH="79" zOrder="140" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="296" controlTypeID="com.balsamiq.mockups::Image" x="110" y="1990" w="120" h="120" measuredW="77" measuredH="79" zOrder="141" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="297" controlTypeID="com.balsamiq.mockups::Label" x="150" y="1953" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="142" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dignity</text>
+      </controlProperties>
+    </control>
+    <control controlID="298" controlTypeID="com.balsamiq.mockups::SubTitle" x="122" y="1922" w="-1" h="-1" measuredW="108" measuredH="27" zOrder="143" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Champion</text>
+      </controlProperties>
+    </control>
+    <control controlID="299" controlTypeID="com.balsamiq.mockups::TextArea" x="103" y="2127" w="133" h="110" measuredW="200" measuredH="140" zOrder="144" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <size>11</size>
+        <state>up</state>
+        <text>Faction%28s%29%20%3A%0AFaction1%0AFaction2%0A%20%0ARole%28s%29%20%3A%0ARole1%0ARole2</text>
+      </controlProperties>
+    </control>
+    <control controlID="300" controlTypeID="com.balsamiq.mockups::TextArea" x="243" y="729" w="120" h="62" measuredW="200" measuredH="140" zOrder="145" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%28s%29%0A%09Faction1%0A%09Faction2</text>
+      </controlProperties>
+    </control>
+    <control controlID="301" controlTypeID="com.balsamiq.mockups::TextArea" x="386" y="729" w="120" h="62" measuredW="200" measuredH="140" zOrder="146" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Roles%28s%29%0A%09Role1%0A%09Role2</text>
+      </controlProperties>
+    </control>
+    <control controlID="302" controlTypeID="com.balsamiq.mockups::Title" x="800" y="675" w="-1" h="-1" measuredW="106" measuredH="43" zOrder="147" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="303" controlTypeID="com.balsamiq.mockups::SubTitle" x="943" y="683" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="148" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dignity</text>
+      </controlProperties>
+    </control>
+    <control controlID="304" controlTypeID="com.balsamiq.mockups::TextArea" x="800" y="726" w="120" h="62" measuredW="200" measuredH="140" zOrder="149" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%28s%29%0A%09Faction1%0A%09Faction2</text>
+      </controlProperties>
+    </control>
+    <control controlID="305" controlTypeID="com.balsamiq.mockups::TextArea" x="943" y="726" w="120" h="62" measuredW="200" measuredH="140" zOrder="150" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Roles%28s%29%0A%09Role1%0A%09Role2</text>
+      </controlProperties>
+    </control>
+    <control controlID="306" controlTypeID="com.balsamiq.mockups::Title" x="1366" y="1941" w="-1" h="-1" measuredW="106" measuredH="43" zOrder="151" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="307" controlTypeID="com.balsamiq.mockups::SubTitle" x="1509" y="1949" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="152" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dignity</text>
+      </controlProperties>
+    </control>
+    <control controlID="308" controlTypeID="com.balsamiq.mockups::TextArea" x="1366" y="1992" w="120" h="62" measuredW="200" measuredH="140" zOrder="153" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%28s%29%0A%09Faction1%0A%09Faction2</text>
+      </controlProperties>
+    </control>
+    <control controlID="309" controlTypeID="com.balsamiq.mockups::TextArea" x="1509" y="1992" w="120" h="62" measuredW="200" measuredH="140" zOrder="154" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Roles%28s%29%0A%09Role1%0A%09Role2</text>
+      </controlProperties>
+    </control>
+    <control controlID="310" controlTypeID="com.balsamiq.mockups::Title" x="800" y="1941" w="-1" h="-1" measuredW="106" measuredH="43" zOrder="155" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="311" controlTypeID="com.balsamiq.mockups::SubTitle" x="943" y="1949" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="156" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dignity</text>
+      </controlProperties>
+    </control>
+    <control controlID="312" controlTypeID="com.balsamiq.mockups::TextArea" x="800" y="1992" w="120" h="62" measuredW="200" measuredH="140" zOrder="157" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Faction%28s%29%0A%09Faction1%0A%09Faction2</text>
+      </controlProperties>
+    </control>
+    <control controlID="313" controlTypeID="com.balsamiq.mockups::TextArea" x="943" y="1992" w="120" h="62" measuredW="200" measuredH="140" zOrder="158" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Roles%28s%29%0A%09Role1%0A%09Role2</text>
+      </controlProperties>
+    </control>
+    <control controlID="314" controlTypeID="com.balsamiq.mockups::TextArea" x="666" y="2172" w="392" h="64" measuredW="200" measuredH="140" zOrder="159" locked="false" isInGroup="-1"/>
+    <control controlID="316" controlTypeID="com.balsamiq.mockups::TextArea" x="110" y="1455" w="392" h="64" measuredW="200" measuredH="140" zOrder="160" locked="false" isInGroup="-1"/>
+    <control controlID="317" controlTypeID="com.balsamiq.mockups::TextArea" x="110" y="914" w="392" h="64" measuredW="200" measuredH="140" zOrder="161" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

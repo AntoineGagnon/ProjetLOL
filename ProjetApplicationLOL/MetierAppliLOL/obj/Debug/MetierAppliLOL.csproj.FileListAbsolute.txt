@@ -1,0 +1,46 @@
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetCarnet\BibDeClasses\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetCarnet\BibDeClasses\obj\Debug\BibDeClasses.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetCarnet\BibDeClasses\obj\Debug\BibDeClasses.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetCarnet\BibDeClasses\bin\Debug\BibDeClasses.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetCarnet\BibDeClasses\bin\Debug\BibDeClasses.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\BibDeClasses\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\BibDeClasses\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\BibDeClasses\obj\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\BibDeClasses\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\BibDeClasses\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\Projet 7 juin\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Antoine\Desktop\Projet 7 juin\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb

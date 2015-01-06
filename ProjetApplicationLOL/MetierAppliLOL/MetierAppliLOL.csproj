@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43D0F5E7-163B-41A9-BF6A-0B90E7D06621}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MetierAppliLOL</RootNamespace>
+    <AssemblyName>MetierAppliLOL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Champion.cs" />
+    <Compile Include="Champion.PropertyChanged.cs" />
+    <Compile Include="PropertyChangedEventArgs.cs" />
+    <Compile Include="Role.cs" />
+    <Compile Include="Faction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spell.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Aatrox\Aatrox.png" />
+    <Resource Include="Images\Aatrox\AatroxE.png" />
+    <Resource Include="Images\Aatrox\AatroxQ.png" />
+    <Resource Include="Images\Aatrox\AatroxR.png" />
+    <Resource Include="Images\Aatrox\AatroxW.png" />
+    <Resource Include="Images\Aatrox\Aatrox_Passive.png" />
+    <Resource Include="Images\Ahri\Ahri.png" />
+    <Resource Include="Images\Ahri\AhriE.png" />
+    <Resource Include="Images\Ahri\AhriQ.png" />
+    <Resource Include="Images\Ahri\AhriR.png" />
+    <Resource Include="Images\Ahri\AhriW.png" />
+    <Resource Include="Images\Ahri\Ahri_Passive.png" />
+    <Resource Include="Images\Cassiopeia\Cassiopeia.png" />
+    <Resource Include="Images\Cassiopeia\CassiopeiaE.png" />
+    <Resource Include="Images\Cassiopeia\CassiopeiaQ.png" />
+    <Resource Include="Images\Cassiopeia\CassiopeiaR.png" />
+    <Resource Include="Images\Cassiopeia\CassiopeiaW.png" />
+    <Resource Include="Images\Cassiopeia\Cassiopeia_Passive.png" />
+    <Resource Include="Images\DrMundo\DrMundo.png" />
+    <Resource Include="Images\DrMundo\DrMundoE.png" />
+    <Resource Include="Images\DrMundo\DrMundoQ.png" />
+    <Resource Include="Images\DrMundo\DrMundoR.png" />
+    <Resource Include="Images\DrMundo\DrMundoW.png" />
+    <Resource Include="Images\DrMundo\DrMundo_Passive.png" />
+    <Resource Include="Images\Lucian\Lucian.png" />
+    <Resource Include="Images\Lucian\LucianE.png" />
+    <Resource Include="Images\Lucian\LucianQ.png" />
+    <Resource Include="Images\Lucian\LucianR.png" />
+    <Resource Include="Images\Lucian\LucianW.png" />
+    <Resource Include="Images\Lucian\Lucian_Passive.png" />
+    <Resource Include="Images\Poppy\Poppy.png" />
+    <Resource Include="Images\Poppy\PoppyE.png" />
+    <Resource Include="Images\Poppy\PoppyQ.png" />
+    <Resource Include="Images\Poppy\PoppyR.png" />
+    <Resource Include="Images\Poppy\PoppyW.png" />
+    <Resource Include="Images\Poppy\Poppy_Passive.png" />
+    <Resource Include="Images\Sona\Sona.png" />
+    <Resource Include="Images\Sona\SonaE.png" />
+    <Resource Include="Images\Sona\SonaQ.png" />
+    <Resource Include="Images\Sona\SonaR.png" />
+    <Resource Include="Images\Sona\SonaW.png" />
+    <Resource Include="Images\Sona\Sona_Passive.png" />
+    <Resource Include="Images\Teemo\Teemo.png" />
+    <Resource Include="Images\Teemo\TeemoE.png" />
+    <Resource Include="Images\Teemo\TeemoQ.png" />
+    <Resource Include="Images\Teemo\TeemoR.png" />
+    <Resource Include="Images\Teemo\TeemoW.png" />
+    <Resource Include="Images\Teemo\Teemo_Passive.png" />
+    <Resource Include="Images\Thresh\Thresh.png" />
+    <Resource Include="Images\Thresh\ThreshE.png" />
+    <Resource Include="Images\Thresh\ThreshQ.png" />
+    <Resource Include="Images\Thresh\ThreshR.png" />
+    <Resource Include="Images\Thresh\ThreshW.png" />
+    <Resource Include="Images\Thresh\Thresh_Passive.png" />
+    <Resource Include="Images\Twitch\Twitch.png" />
+    <Resource Include="Images\Twitch\TwitchE.png" />
+    <Resource Include="Images\Twitch\TwitchQ.png" />
+    <Resource Include="Images\Twitch\TwitchR.png" />
+    <Resource Include="Images\Twitch\TwitchW.png" />
+    <Resource Include="Images\Twitch\Twitch_Passive.png" />
+    <Resource Include="Images\Ziggs\Ziggs.png" />
+    <Resource Include="Images\Ziggs\ZiggsE.png" />
+    <Resource Include="Images\Ziggs\ZiggsQ.png" />
+    <Resource Include="Images\Ziggs\ZiggsR.png" />
+    <Resource Include="Images\Ziggs\ZiggsW.png" />
+    <Resource Include="Images\Ziggs\Ziggs_Passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Nunu\Nunu.png" />
+    <Resource Include="Images\Nunu\NunuE.png" />
+    <Resource Include="Images\Nunu\NunuQ.png" />
+    <Resource Include="Images\Nunu\NunuR.png" />
+    <Resource Include="Images\Nunu\NunuW.png" />
+    <Resource Include="Images\Nunu\Nunu_Passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Kassadin\Kassadin.png" />
+    <Resource Include="Images\Kassadin\KassadinE.png" />
+    <Resource Include="Images\Kassadin\KassadinQ.png" />
+    <Resource Include="Images\Kassadin\KassadinR.png" />
+    <Resource Include="Images\Kassadin\KassadinW.png" />
+    <Resource Include="Images\Kassadin\Kassadin_Passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Rumble\Rumble.png" />
+    <Resource Include="Images\Rumble\RumbleE.png" />
+    <Resource Include="Images\Rumble\RumbleQ.png" />
+    <Resource Include="Images\Rumble\RumbleR.png" />
+    <Resource Include="Images\Rumble\RumbleW.png" />
+    <Resource Include="Images\Rumble\Rumble_Passive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Kennen\Kennen.png" />
+    <Resource Include="Images\Kennen\KennenE.png" />
+    <Resource Include="Images\Kennen\KennenQ.png" />
+    <Resource Include="Images\Kennen\KennenR.png" />
+    <Resource Include="Images\Kennen\KennenW.png" />
+    <Resource Include="Images\Kennen\Kennen_Passive.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

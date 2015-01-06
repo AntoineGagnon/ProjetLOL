@@ -1,0 +1,143 @@
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.baml
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.baml
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.baml
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlTabChampion.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\UserControlTabChampion.baml
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\MyUserControls\obj\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlMarkWithStars.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlSpellDescription.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls_MarkupCompile.lref
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlChampionInList.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\UserControlTabChampion.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.g.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.Properties.Resources.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\MyUserControls.pdb

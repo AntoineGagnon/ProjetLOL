@@ -1,0 +1,5 @@
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetCarnet\BibDeClasses\bin\Debug\BibDeClasses.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetCarnet\BibDeClasses\bin\Debug\BibDeClasses.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetCarnet\BibDeClasses\obj\Debug\BibDeClasses.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetCarnet\BibDeClasses\obj\Debug\BibDeClasses.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetCarnet\BibDeClasses\obj\Debug\BibDeClasses.pdb

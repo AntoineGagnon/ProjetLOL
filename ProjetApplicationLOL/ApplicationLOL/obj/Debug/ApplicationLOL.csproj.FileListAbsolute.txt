@@ -1,0 +1,132 @@
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\Visual Studio 2012\Projects\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+E:\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+E:\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+E:\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+E:\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+E:\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+E:\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Documents\MEGA\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+C:\Users\Arnaud\Documents\IUT\C#\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Antoine\Desktop\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\bin\Debug\MyUserControls.pdb
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Antoine\Desktop\Projet 7 juin\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe.config
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csprojResolveAssemblyReference.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.baml
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\MainWindow.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\App.g.cs
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL_MarkupCompile.cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.g.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.exe
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\ApplicationLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.dll
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\bin\Debug\MyUserControls.pdb
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.Properties.Resources.resources
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.csproj.GenerateResource.Cache
+C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\ApplicationLOL\obj\Debug\ApplicationLOL.exe
