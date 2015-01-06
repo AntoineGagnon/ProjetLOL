@@ -10,8 +10,10 @@ feel of what it is like to make a real project.
 The aim of it was to create a Master Detail application, the theme was then for us to choose. We choose the League of Legends game as a theme as we were both players at the time and thought it was a good idea to use their universe, having loads of characters with details about them defined in the game.
 
 #### Possible evolutions 
-Adding serialization to champions and loading them from an XML file instead of raw code
+Adding serialization to champions and loading them from an XML file instead of raw code and being able to store ratings and comments about champions since right now, those are lost when the application is closed.
 
 Adding a parser that would be able to grab informations about champions on the League of Legends website
+
+
 
 [Marc Chevaldonne]:http://marc.chevaldonne.free.fr/ens_rech/Bienvenue/Bienvenue.html

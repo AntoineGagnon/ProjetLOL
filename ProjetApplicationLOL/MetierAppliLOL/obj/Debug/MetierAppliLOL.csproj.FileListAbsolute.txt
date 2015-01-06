@@ -44,3 +44,9 @@ C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\o
 C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb
 C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
 C:\Users\Arnaud\Documents\IUT\C#\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\bin\Debug\MetierAppliLOL.pdb
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.g.resources
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.dll
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MetierAppliLOL\obj\Debug\MetierAppliLOL.pdb

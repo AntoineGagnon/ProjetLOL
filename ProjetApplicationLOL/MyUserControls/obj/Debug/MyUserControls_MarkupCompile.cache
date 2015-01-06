@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Antoine\Dropbox\IUT Clermont\CSharp\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\
+C:\Users\Antoine\Documents\ProjetLOL\ProjetApplicationLOL\MyUserControls\obj\Debug\
 MyUserControls
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 4-1742029060
 
 7-519248924
-13265491892
+13-1286098520
 UserControlChampionInList.xaml;UserControlMarkWithStars.xaml;UserControlSpellDescription.xaml;UserControlTabChampion.xaml;
 
 False

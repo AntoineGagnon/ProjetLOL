@@ -20,7 +20,7 @@
     </Window.Resources>
 
     <Window.Background>
-        <ImageBrush ImageSource="Images/HowlingAbyss.jpg" Stretch="UniformToFill"/>
+        <ImageBrush ImageSource="Images/background.jpg" Stretch="UniformToFill"/>
     </Window.Background>
 
     <TabControl BorderThickness="0" Name="mTabControlMainWindow">
